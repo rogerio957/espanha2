@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:-1,ES | AMC
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51519.ts
+#EXTINF:-1,ES | ANTENA 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51531.ts
+#EXTINF:-1,ES | AXN White
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51554.ts
+#EXTINF:-1,ES | Blaze
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/40708.ts
+#EXTINF:-1,ES | Dark
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/40731.ts
+#EXTINF:-1,ES | BOING
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51595.ts
+#EXTINF:-1,ES | CALLE 13
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51603.ts
+#EXTINF:-1,ES | CANAL COCINA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51621.ts
+#EXTINF:-1,ES | CANAL PANDA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51642.ts
+#EXTINF:-1,ES | CLAN TVE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51661.ts
+#EXTINF:-1,ES | COSMO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51677.ts
+#EXTINF:-1,ES | CUATRO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51693.ts
+#EXTINF:-1,ES | FOX LIFE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51800.ts
+#EXTINF:-1,ES | Gol TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51816.ts
+#EXTINF:-1,ES | HOLLYWOOD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51833.ts
+#EXTINF:-1,ES | LaLiga TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51876.ts
+#EXTINF:-1,ES | MOVISTAR CINE ESPANOL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51887.ts
+#EXTINF:-1,ES | MOVISTAR DRAMA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51920.ts
+#EXTINF:-1,ES | MEGA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51934.ts
+#EXTINF:-1,ES | MOTOGP
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51940.ts
+#EXTINF:-1,ES | MOVISTAR ESTRENOS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51947.ts
+#EXTINF:-1,ES | MOVISTAR COMEDIA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51957.ts
+#EXTINF:-1,ES | MOVISTAR SERIES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/51998.ts
+#EXTINF:-1,ES | CANAL ODISEA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52070.ts
+#EXTINF:-1,ES | Real Madrid TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52085.ts
+#EXTINF:-1,ES | SYFY
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52099.ts
+#EXTINF:-1,ES | Taquilla 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52103.ts
+#EXTINF:-1,ES | Taquilla 5
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52106.ts
+#EXTINF:-1,ES | TC Television
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52112.ts
+#EXTINF:-1,ES | TCM
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52115.ts
+#EXTINF:-1,ES | TELECINCO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52127.ts
+#EXTINF:-1,ES | TNT
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/52149.ts
+#EXTINF:-1,ES | TVE LA 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681786.ts
+#EXTINF:-1,ES | TVE LA 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681787.ts
+#EXTINF:-1,ES | LA SEXTA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681795.ts
+#EXTINF:-1,ES | 24 HORAS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681797.ts
+#EXTINF:-1,ES | ARAGON TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681799.ts
+#EXTINF:-1,ES | CANAL SUR Andalucia
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681800.ts
+#EXTINF:-1,ES | TELEMADRID
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681801.ts
+#EXTINF:-1,ES | Tv GALICIA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681802.ts
+#EXTINF:-1,ES | TV3 CATALUNYA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681803.ts
+#EXTINF:-1,ES | XTRM
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681804.ts
+#EXTINF:-1,===&gt; ES | ESTILO VIDA &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681805.ts
+#EXTINF:-1,ES | CANAL DECASA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681807.ts
+#EXTINF:-1,ES | DIVINITY
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681808.ts
+#EXTINF:-1,ES | BE MAD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681809.ts
+#EXTINF:-1,ES | DKISS TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681810.ts
+#EXTINF:-1,ES | NEOX
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681811.ts
+#EXTINF:-1,ES | NOVA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681812.ts
+#EXTINF:-1,===&gt; ES | DEPORTES &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681813.ts
+#EXTINF:-1,ES | #VAMOS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681815.ts
+#EXTINF:-1,ES | BARCA TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681816.ts
+#EXTINF:-1,ES | DAZN 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681817.ts
+#EXTINF:-1,ES | DAZN 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681818.ts
+#EXTINF:-1,ES | DAZN 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681819.ts
+#EXTINF:-1,ES | DAZN 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681820.ts
+#EXTINF:-1,ES | MOVISTAR DEPORTES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681825.ts
+#EXTINF:-1,ES | MOVISTAR FORMULA 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681827.ts
+#EXTINF:-1,ES | MOVISTAR GOLF
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681828.ts
+#EXTINF:-1,ES | MOVISTAR LA LIGA 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681829.ts
+#EXTINF:-1,ES | MOVISTAR LA LIGA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681831.ts
+#EXTINF:-1,ES | MOVISTAR LIGA CAMPEONES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681832.ts
+#EXTINF:-1,ES | MOVISTAR LIGA CAMPEONES 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681833.ts
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681834.ts
+#EXTINF:-1,ES | EUROSPORT 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681836.ts
+#EXTINF:-1,ES | Eurosport 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681839.ts
+#EXTINF:-1,ES | TELE DEPORTE
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681840.ts
+#EXTINF:-1,===&gt; ES | CINE &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681841.ts
+#EXTINF:-1,ES | #0
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681842.ts
+#EXTINF:-1,ES | AXN
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681845.ts
+#EXTINF:-1,ES | Fox
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681849.ts
+#EXTINF:-1,ES | FDF
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681854.ts
+#EXTINF:-1,ES | SOMOS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681857.ts
+#EXTINF:-1,ES | MOVISTAR ACCION
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681858.ts
+#EXTINF:-1,ES | MOVISTAR CINE DOC&ROLL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681861.ts
+#EXTINF:-1,ES | MOVISTAR SERIES MANIA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681870.ts
+#EXTINF:-1,ES | PARAMOUNT CHANNEL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681873.ts
+#EXTINF:-1,ES | A3 SERIES
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681874.ts
+#EXTINF:-1,ES | COMEDY CENTRAL
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681882.ts
+#EXTINF:-1,ES | Cine ROMANTICO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681885.ts
+#EXTINF:-1,===&gt; ES | NINOS &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681886.ts
+#EXTINF:-1,ES | BABY
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681887.ts
+#EXTINF:-1,ES | Disney+
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681891.ts
+#EXTINF:-1,ES | Disney Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681893.ts
+#EXTINF:-1,ES | Disney Junior
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681894.ts
+#EXTINF:-1,ES | NICK JR
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681895.ts
+#EXTINF:-1,ES | NICKELODEON
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681897.ts
+#EXTINF:-1,===&gt; ES | DOCUMENTALES &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681898.ts
+#EXTINF:-1,ES | CAZA Y PESCA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681902.ts
+#EXTINF:-1,ES | Crimen+ Investigacion
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681903.ts
+#EXTINF:-1,ES | Discovery Channel
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681904.ts
+#EXTINF:-1,ES | Energy
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681905.ts
+#EXTINF:-1,ES | HISTORIA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681906.ts
+#EXTINF:-1,ES | IBERALIA TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681907.ts
+#EXTINF:-1,ES | NAT GEO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681910.ts
+#EXTINF:-1,ES | NAT GEO WILD
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681912.ts
+#EXTINF:-1,ES | TOROS TV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681914.ts
+#EXTINF:-1,ES | VIAJAR
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681916.ts
+#EXTINF:-1,===&gt; ES | PELICULAS &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681917.ts
+#EXTINF:-1,ES | Taquilla 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681918.ts
+#EXTINF:-1,ES | Taquilla 3
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681920.ts
+#EXTINF:-1,ES | Taquilla 4
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681921.ts
+#EXTINF:-1,ES | Taquilla 7
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681922.ts
+#EXTINF:-1,ES | Taquilla 8
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681923.ts
+#EXTINF:-1,ES | Taquilla 9
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681924.ts
+#EXTINF:-1,ES | Taquilla 10
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681925.ts
+#EXTINF:-1,===&gt; ES | OTROS CANALES &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681928.ts
+#EXTINF:-1,ES | CLASSICA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681929.ts
+#EXTINF:-1,ES | MTV
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681930.ts
+#EXTINF:-1,ES | MEZZO
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681931.ts
+#EXTINF:-1,ES | SOL MUSICA
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681932.ts
+#EXTINF:-1,ES | ETB 1
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681933.ts
+#EXTINF:-1,ES | ETB 2
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681934.ts
+#EXTINF:-1,ES | FOX NEWS
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681935.ts
+#EXTINF:-1,===&gt; ES | Sports &lt;===
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681938.ts
+#EXTINF:-1,ES | Bein Sports ñ
+http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/681939.ts
+
